@@ -1,0 +1,6 @@
+[package]
+name = "lagctrl_ui_dx"
+version = "0.1.0"
+edition.workspace = true
+
+[dependencies]

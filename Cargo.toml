@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [ "lagctrl_cli","lagctrl_core", "lagctrl_plugin_example", "lagctrl_plugin_proto", "lagctrl_ui_dx"]
+
+[workspace.package]
+edition = "2021"
+
+[workspace.dependencies]
+
